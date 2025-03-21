@@ -53,12 +53,14 @@ This Power BI dashboard offers **actionable insights** into mobile sales trends,
 
 ## 📸 Dashboard Preview  
 [Mobile Sales Data Dashboard](https://github.com/saniya-collab/PowerBI-Mobile-Sales-Dashboard/blob/a3b381123c9275613e29ace934b415597c24d9ce/Mobile%20Sales%20Data%20Dashboard.png)
+
 [MTD Report](https://github.com/saniya-collab/PowerBI-Mobile-Sales-Dashboard/blob/8af74a2f85efa6a4a320f413b1fee9955423b324/MTD%20Report%20Dashboard.png)
-[Same Period Last Year]
+
+[Same Period Last Year](https://github.com/saniya-collab/PowerBI-Mobile-Sales-Dashboard/blob/ebd79c0991d54513d4f01c63e4e81a5050c09cac/Same%20Period%20Last%20Year%20Dashboard.png)
   
 
 ## 🔗 Repository Link  
-[GitHub Repository Link - Add Here]  
+[GitHub Repository Link- https://github.com/saniya-collab/PowerBI-Mobile-Sales-Dashboard/tree/main]  
 
 ---
 
