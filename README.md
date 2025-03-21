@@ -52,6 +52,7 @@ This Power BI dashboard offers **actionable insights** into mobile sales trends,
 4. Analyze insights to enhance **business performance**.  
 
 ## 📸 Dashboard Preview  
+[Mobile Sales Data Dashboard](Mobile Sales Data Dashboard.png)
   
 
 ## 🔗 Repository Link  
