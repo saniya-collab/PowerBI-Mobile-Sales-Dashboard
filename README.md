@@ -1,4 +1,3 @@
-# PowerBI-Mobile-Sales-Dashboard
 # 📊 Power BI Mobile Sales Dashboard  
 
 ## 📌 Overview  
@@ -65,6 +64,6 @@ This Power BI dashboard offers **actionable insights** into mobile sales trends,
 ---
 
 ### 👥 Connect with Me  
-For feedback and collaboration, connect with me on **LinkedIn**: [Your LinkedIn Profile]  
+For feedback and collaboration, connect with me on **LinkedIn**: [https://www.linkedin.com/in/saniya-sinha-12074b262]  
 
 📢 **#PowerBI #DataAnalytics #SalesDashboard #BusinessIntelligence #DataDrivenInsights**  
